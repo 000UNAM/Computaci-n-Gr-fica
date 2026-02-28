@@ -1,10 +1,4 @@
-# OpenGL - Computación Gráfica e Interacción Humano Computadora
-
-Repositorio del curso **Computación Gráfica e Interacción Humano Computadora** de la  
-**Universidad Nacional Autónoma de México – Facultad de Ingeniería**.
-
-Este proyecto reúne las **prácticas, proyectos y experimentos** desarrollados a lo largo del semestre, enfocados en los fundamentos teóricos y prácticos de la computación gráfica.
-
+# 🖥️ OpenGL - Computación Gráfica e Interacción Humano Computadora
 ---
 
 ## 🎯 Objetivo del repositorio
