@@ -1,1 +1,1 @@
-Archivos .frag de la Práctica 2
+Archivos .vert de la Práctica 2
