@@ -1,1 +1,1 @@
-Archivos release y pdb
+Archivos exe y pdb
